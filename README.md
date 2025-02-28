@@ -97,7 +97,7 @@ Backend Routes is created
 Steps to run project
  1.git clone https://github.com/jgarij/MERN-Test-Garima.git
  
-2.cd MERN-Test-Garima.git
+2.cd MERN-Test-Garima
 
 You shooul use two terminals one for frontend  and one for backend
 <!-- For backend -->
